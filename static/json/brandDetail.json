@@ -1,0 +1,20 @@
+[
+	{
+	"children":[{
+		"href":"/Detail?name=szy&id=1",
+		"title":"品牌故事"
+		},
+		{
+		"href":"/Detail?name=szy&id=2",
+		"title":"品牌历史"
+		},
+		{
+		"href":"/Detail?name=szy&id=3",
+		"title":"师资团队"
+		},
+		{
+		"href":"/Detail?name=szy&id=4",
+		"title":"中心掠影"
+		}]
+	}
+]
